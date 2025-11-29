@@ -3,34 +3,18 @@
   "last_updated": "2024-01-15",
   "product_logos": {
     "TEL010": {
-      "logo_url": "https://raw.githubusercontent.com/tuusuario/turepo/main/logos/telcel.png",
+      "logo_url": "https://images.seeklogo.com/logo-png/31/1/telcel-logo-png_seeklogo-310034.png",
       "card_background": "#0072CE",
       "text_color": "#FFFFFF"
     },
-    "MOV050": {
-      "logo_url": "https://raw.githubusercontent.com/tuusuario/turepo/main/logos/movistar.png",
-      "card_background": "#00AEF0",
+    "TEL020": {
+      "logo_url": "https://images.seeklogo.com/logo-png/31/1/telcel-logo-png_seeklogo-310034.png",
+      "card_background": "#0072CE",
       "text_color": "#FFFFFF"
     },
-    "TMX": {
-      "logo_url": "https://raw.githubusercontent.com/tuusuario/turepo/main/logos/telmex.png",
-      "card_background": "#E6007E",
-      "text_color": "#FFFFFF"
-    },
-    "STF110": {
-      "logo_url": "https://raw.githubusercontent.com/tuusuario/turepo/main/logos/spotify.png",
-      "card_background": "#1DB954",
-      "text_color": "#191414"
-    },
-    "SKY": {
-      "logo_url": "https://raw.githubusercontent.com/tuusuario/turepo/main/logos/sky.png",
-      "card_background": "#00A4E0",
+    "TEL030": {
+      "logo_url": "https://images.seeklogo.com/logo-png/31/1/telcel-logo-png_seeklogo-310034.png",
+      "card_background": "#0072CE",
       "text_color": "#FFFFFF"
     }
-  },
-  "default_config": {
-    "logo_url": "https://raw.githubusercontent.com/tuusuario/turepo/main/logos/default.png",
-    "card_background": "#F5F5F5",
-    "text_color": "#333333"
-  }
 }
