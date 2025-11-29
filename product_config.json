@@ -3,18 +3,34 @@
   "last_updated": "2024-01-15",
   "product_logos": {
     "TEL010": {
-      "logo_url": "https://images.seeklogo.com/logo-png/31/1/telcel-logo-png_seeklogo-310034.png",
+      "logo_url": "https://github.com/jorge398013/logos/blob/main/logos/7.png",
       "card_background": "#0072CE",
       "text_color": "#FFFFFF"
     },
     "TEL020": {
-      "logo_url": "https://images.seeklogo.com/logo-png/31/1/telcel-logo-png_seeklogo-310034.png",
+      "logo_url": "https://github.com/jorge398013/logos/blob/main/logos/7.png",
       "card_background": "#0072CE",
       "text_color": "#FFFFFF"
     },
     "TEL030": {
-      "logo_url": "https://images.seeklogo.com/logo-png/31/1/telcel-logo-png_seeklogo-310034.png",
+      "logo_url": "https://github.com/jorge398013/logos/blob/main/logos/7.png",
       "card_background": "#0072CE",
       "text_color": "#FFFFFF"
+    },
+    "MOV010": {
+      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/movistar.png",
+      "card_background": "#00AEF0",
+      "text_color": "#FFFFFF"
+    },
+    "MOV020": {
+      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/movistar.png",
+      "card_background": "#00AEF0",
+      "text_color": "#FFFFFF"
     }
+  },
+  "default_config": {
+    "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/default.png",
+    "card_background": "#F5F5F5",
+    "text_color": "#333333"
+  }
 }
