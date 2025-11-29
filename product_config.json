@@ -3,17 +3,17 @@
   "last_updated": "2024-01-15",
   "product_logos": {
     "TEL010": {
-      "logo_url": "https://github.com/jorge398013/logos/blob/main/logos/7.png?raw=true",
+      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/7.png",
       "card_background": "#0072CE",
       "text_color": "#FFFFFF"
     },
     "TEL020": {
-      "logo_url": "https://github.com/jorge398013/logos/blob/main/logos/7.png",
+      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/7.png",
       "card_background": "#0072CE",
       "text_color": "#FFFFFF"
     },
     "TEL030": {
-      "logo_url": "https://github.com/jorge398013/logos/blob/main/logos/7.png",
+      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/7.png",
       "card_background": "#0072CE",
       "text_color": "#FFFFFF"
     },
