@@ -1,36 +1,34 @@
 {
-  "version": "1.0",
-  "last_updated": "2024-01-15",
-  "product_logos": {
-    "TEL010": {
-      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/7.png",
-      "card_background": "#0072CE",
-      "text_color": "#FFFFFF"
+  "groups": [
+    {
+      "name": "Claro",
+      "color": "#FF0000",
+      "imageUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/images/claro_logo.png",
+      "pattern": "diagonal"
     },
-    "TEL020": {
-      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/7.png",
-      "card_background": "#0072CE",
-      "text_color": "#FFFFFF"
+    {
+      "name": "Movistar",
+      "color": "#00A8E0",
+      "imageUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/images/movistar_logo.png",
+      "pattern": "dots"
     },
-    "TEL030": {
-      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/7.png",
-      "card_background": "#0072CE",
-      "text_color": "#FFFFFF"
+    {
+      "name": "Tigo",
+      "color": "#FFC72C",
+      "imageUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/images/tigo_logo.png",
+      "pattern": "stripes"
     },
-    "MOV010": {
-      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/movistar.png",
-      "card_background": "#00AEF0",
-      "text_color": "#FFFFFF"
+    {
+      "name": "ETB",
+      "color": "#6A0DAD",
+      "imageUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/images/etb_logo.png",
+      "pattern": "none"
     },
-    "MOV020": {
-      "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/movistar.png",
-      "card_background": "#00AEF0",
-      "text_color": "#FFFFFF"
+    {
+      "name": "Directv",
+      "color": "#00B140",
+      "imageUrl": "https://raw.githubusercontent.com/tu-usuario/tu-repo/main/images/directv_logo.png",
+      "pattern": "diagonal"
     }
-  },
-  "default_config": {
-    "logo_url": "https://raw.githubusercontent.com/jorge398013/logos/main/logos/default.png",
-    "card_background": "#F5F5F5",
-    "text_color": "#333333"
-  }
+  ]
 }
