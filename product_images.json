@@ -1,0 +1,68 @@
+{
+  "product_images": [
+    {
+      "product_name": "Telcel",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_Telcel.svg/512px-Logo_Telcel.svg.png"
+    },
+    {
+      "product_name": "Movistar",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Logo.svg/512px-Movistar_Logo.svg.png"
+    },
+    {
+      "product_name": "Unefon",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Unef%C3%B3n_logo.svg/512px-Unef%C3%B3n_logo.svg.png"
+    },
+    {
+      "product_name": "Nextel - ATT",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/AT%26T_logo_2016.svg/512px-AT%26T_logo_2016.svg.png"
+    },
+    {
+      "product_name": "Virgin",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Virgin_Mobile_logo.svg/512px-Virgin_Mobile_logo.svg.png"
+    },
+    {
+      "product_name": "Cierto",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cierto_logo.svg/512px-Cierto_logo.svg.png"
+    },
+    {
+      "product_name": "Maz Tiempo",
+      "image_url": "https://example.com/logos/maz_tiempo.png"
+    },
+    {
+      "product_name": "Weex",
+      "image_url": "https://example.com/logos/weex.png"
+    },
+    {
+      "product_name": "Flash Mobile",
+      "image_url": "https://example.com/logos/flash_mobile.png"
+    },
+    {
+      "product_name": "Amigo Sin Límite",
+      "image_url": "https://example.com/logos/amigo_sin_limite.png"
+    },
+    {
+      "product_name": "Internet Móvil",
+      "image_url": "https://example.com/logos/internet_movil.png"
+    },
+    {
+      "product_name": "Datos Movistar",
+      "image_url": "https://example.com/logos/datos_movistar.png"
+    },
+    {
+      "product_name": "Internet Ilimitado",
+      "image_url": "https://example.com/logos/internet_ilimitado.png"
+    },
+    {
+      "product_name": "Oui",
+      "image_url": "https://example.com/logos/oui.png"
+    },
+    {
+      "product_name": "Wimo",
+      "image_url": "https://example.com/logos/wimo.png"
+    },
+    {
+      "product_name": "Gugacom",
+      "image_url": "https://example.com/logos/gugacom.png"
+    }
+  ]
+}
