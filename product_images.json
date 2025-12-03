@@ -1,28 +1,48 @@
 {
   "productLogos": {
-    "Telcel": "https://i.pinimg.com/736x/9e/d4/e0/9ed4e0346f8b1997f8e3f726ec171010.jpg",
-    "Movistar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logotipo_de_Movistar_version_negativo.svg/250px-Logotipo_de_Movistar_version_negativo.svg.png",
-    "Unefon": "https://logodix.com/logo/1904474.jpg",
-    "Nextel - ATT": "https://1000logos.net/wp-content/uploads/2016/10/Color-ATT-Logo-500x281.jpg",
-    "Virgin": "https://upload.wikimedia.org/wikipedia/commons/d/db/Virgin_Mobile_M%C3%A9xico.png",
-    "Cierto": "https://i.blogs.es/b1d452/cierto-logo/450_1000.jpg",
-    "Maz Tiempo": "https://i.blogs.es/1e3a67/650_1000_maz-tiempo/600_315.png",
-    "Weex": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHjsOS8WxMsfyUhIHLwSeuf0H3R6Gyg-guqIgz_kE0l6lYJr90mCLNMWg8Z9HEjS4Vq0&usqp=CAU",
-    "Flash Mobile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaiO4hSXdWRFNCiBPUhV7NJHyxDzEcVEfWg&s",
-    "Amigo Sin Límite": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0cDaa77kyo9QYE5HTGIpmXfKdTgJvdnnvA&s",
-    "Internet Móvil": "https://www.pandaancha.mx/plds/articulos/froala/internet-telcel-816x325-773074341.jpg",
-    "Datos Movistar": "https://i.pinimg.com/originals/dc/d9/41/dcd941ab9d0fe15b131cdfeab00ee5d6.png",
-    "Internet Ilimitado": "https://holatelcel.com/wp-content/uploads/2016/11/amigo-324x235.jpg",
-    "Oui": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnIqLgy_tPRXZ8ZJa_d00t8vLFyH3KnmkDFaXT_6XY_DnWlfv3dM8bt2QUa9xZakBkY-w&usqp=CAU",
-    "Wimo": "https://cdn.bitrefill.com/content/cn/b_rgb%3AFFFFFF%2Cc_pad%2Ch_600%2Cw_800/v1755026066/wimo-mx.webp",
-    "Gugacom": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1g4nI1syVYopedjWDGpNGAWDqtOjmPlnDA&s",
-    "Compartfon": "https://www.tuexpertomovil.com/wp-content/uploads/2020/11/opiniones-compartfon-2020-1200x800.jpg",
-    "Pillofon": "https://d3jkoqalzfs5lw.cloudfront.net/imagenesPillo/optimizacion/PilloFon_Logo_fav.webp",
-    "Diri Móvil": "https://play-lh.googleusercontent.com/WC99lUhdXxnRrmkBuuXx7mThHxsmhE5R2JICJVFsV-g_MTehON1M9Zo9JYAz1t4738c",
-    "Soriana Móvil": "https://cdn.milenio.com/uploads/media/2014/07/18/nuevo-logotipo-de-soriana.jpeg",
-    "FreedomPop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDq4F15krNeWs4jNVkhaCrTKSbCIY3b4xjx-ahOkZvOrTz5H2nLh-1zrVO7qpprrCDLGQ&usqp=CAU",
+    "Telcel": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Telcel_logo.svg/2560px-Telcel_logo.svg.png",
     
-    "Bait": "https://images.seeklogo.com/logo-png/44/1/bait-logo-png_seeklogo-448007.png",
+    "Movistar": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Movistar.svg/2560px-Logo_Movistar.svg.png",
+    
+    "Unefon": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LogoUnefon.png",
+    
+    "Nextel - ATT": "https://1000logos.net/wp-content/uploads/2016/10/Color-ATT-Logo-500x281.jpg",
+    
+    "Virgin": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Virgin_Mobile_logo.svg/2560px-Virgin_Mobile_logo.svg.png",
+    
+    "Cierto": "https://i.blogs.es/b1d452/cierto-logo/450_1000.jpg",
+    
+    "Maz Tiempo": "https://i.blogs.es/1e3a67/650_1000_maz-tiempo/600_315.png",
+    
+    "Weex": "https://i.blogs.es/85f799/weex/650_1200.jpg",
+    
+    "Flash Mobile": "https://vectorseek.com/wp-content/uploads/2023/09/Flash-Mobile-Logo-Vector.svg-.png",
+    
+    "Amigo Sin Límite": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0cDaa77kyo9QYE5HTGIpmXfKdTgJvdnnvA&s",
+    
+    "Internet Móvil": "https://www.pandaancha.mx/plds/articulos/froala/internet-telcel-816x325-773074341.jpg",
+    
+    "Datos Movistar": "https://1000marcas.net/wp-content/uploads/2019/12/Movistar-logo.jpg",
+    
+    "Internet Ilimitado": "https://recargamarcas.net/images/companias/amigo.png",
+    
+    "Oui": "https://selectra.mx/sites/selectra.mx/files/images/logo_oui.png",
+    
+    "Wimo": "https://www.wimotelecom.com/wp-content/uploads/2022/12/logo_wimo_red-blue.webp",
+    
+    "Gugacom": "https://queplan.mx/sites/default/files/styles/logo_medium/public/2021-06/gugacom.png?itok=mI2A-cbo",
+    
+    "Compartfon": "https://krecargas.com/wp-content/uploads/2022/10/ComparTfon.png",
+    
+    "Pillofon": "https://d3jkoqalzfs5lw.cloudfront.net/imagenesPillo/Website/PilloPrincipal/image002.png",
+    
+    "Diri Móvil": "https://odoo.diri.mx/web/image/website/1/logo/Landing%20Diri?unique=aea3170",
+    
+    "Soriana Móvil": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwff6da298/images/product/2000116840239_A.jpg?sw=445&sh=445&sm=fit",
+    
+    "FreedomPop": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Freedompop_logo.png",
+    
+    "Bait": "https://i.pinimg.com/736x/cf/81/68/cf81683b486adc0c5eabe0b26cc91a8c.jpg",
     
     "Mi Móvil": "https://cdn-pcu.s3-us-west-2.amazonaws.com/images/main-logo.png",
     
