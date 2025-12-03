@@ -21,29 +21,49 @@
     "Diri Móvil": "https://play-lh.googleusercontent.com/WC99lUhdXxnRrmkBuuXx7mThHxsmhE5R2JICJVFsV-g_MTehON1M9Zo9JYAz1t4738c",
     "Soriana Móvil": "https://cdn.milenio.com/uploads/media/2014/07/18/nuevo-logotipo-de-soriana.jpeg",
     "FreedomPop": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDq4F15krNeWs4jNVkhaCrTKSbCIY3b4xjx-ahOkZvOrTz5H2nLh-1zrVO7qpprrCDLGQ&usqp=CAU",
-    "Bait": "https://i.blogs.es/50bc73/unnamed/450_1000.png",
-    "Mi Móvil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1KQ2Q0D3fFjlJaGdJOfbIpu9ohMVF87Mig&s",
     
-    "BigCel": "https://panteramobile.com.mx/config/admin/uploads/6890df148e681/IMAGE_00818ea8627866d4710528a55156ca3c.png",
-    "Valor Telecom": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgM2ZS_0ILiDITAHTlP-zeamLxt9n7zBqCBQ&s",
+    "Bait": "https://images.seeklogo.com/logo-png/44/1/bait-logo-png_seeklogo-448007.png",
+    
+    "Mi Móvil": "https://cdn-pcu.s3-us-west-2.amazonaws.com/images/main-logo.png",
+    
+    "BigCel": "https://iluminemos.org/wp-content/uploads/2022/07/logobigcel.png",
+    
+    "Valor Telecom": "https://valortelecom.mx/wp-content/uploads/2024/06/logo.png",
+    
     "Axios": "https://admin.axiosmobile.mx/img/logoAzul.png",
 
-    "Abib": "https://www.abib.mx/wp-content/uploads/2024/02/abib_logo_vert.png",
-    "JR Móvil": "https://jrmovil.com/wp-content/uploads/2022/06/cropped-logo_jrmovil-1.png",
-    "Wik": "https://wik.mx/wp-content/uploads/2021/10/logo_wik-1.png",
-    "Rincel": "https://rincel.com.mx/wp-content/uploads/2023/01/cropped-logo_blanco.png",
-    "Compartcarga": "https://compartcarga.com/assets/images/logo.png",
-    "Newww": "https://newww.mx/wp-content/uploads/2023/05/cropped-newww-logo-1.png",
-    "Vasanta": "https://www.vasanta.mx/wp-content/uploads/2022/06/Vasanta-3.png",
-    "Mobig": "https://mobig.com.mx/wp-content/uploads/2023/11/cropped-logo_mobig.png",
-    "Telmovil": "https://www.telmovil.com.mx/wp-content/uploads/2021/09/telmovil-logo.png",
-    "Beneleit": "https://beneleit.com/wp-content/uploads/2021/07/Logo-Beneleit-Blanco.png",
-    "CFE TEIT": "https://play-lh.googleusercontent.com/_rGR2PEKYQTQrDTD9hNTPq8MxnKhP_pm_YZZ2TEsM2Qz5CHLfTzsn1XhAwq8lXqBaw",
-    "Netwey": "https://www.netwey.com.mx/wp-content/uploads/2018/04/Logo-Sitio-2.png",
-    "Ultracel": "https://ultracel.com.mx/wp-content/uploads/2023/12/ultracel-logo.png",
-    "Altcel": "https://altcel.com/wp-content/uploads/2022/09/logo-altcel.png",
-    "LikePhone": "https://like-phone.com/wp-content/uploads/2024/03/logo-like-phone-negro.png",
-    "Nemi": "https://nemi.com.mx/wp-content/uploads/2023/04/logo-nemi-verde.png",
+    "Abib": "https://selectra.mx/sites/selectra.mx/files/images/abib-xl.png",
+    
+    "JR Móvil": "https://jrmovil.com/wp-content/uploads/2024/12/JRmovil-mov.webp",
+    
+    "Wik": "https://wik.com.mx/public/assets/img/small_logo.png",
+    
+    "Rincel": "https://mirincel.rincel.com.mx/imagenes/web/logo.png",
+    
+    "Compartcarga": "https://thegurucompany.com/assets/images/main-logo-074b3dfc0d1df551d73379f4b7b8cfee.png",
+    
+    "Newww": "https://newww.mx/wp-content/uploads/2023/02/logotipo-header-newww-distribuidores-V-PC.png",
+    
+    "Vasanta": "https://www.mivasanta.com.mx/assets/img/LOGO.png",
+    
+    "Mobig": "https://cloudmedia.mx/img/mobig.jpg",
+    
+    "Telmovil": "https://telmovil.mx/assets/images/logo-telmovil.png",
+    
+    "Beneleit": "https://evotae.com.mx/img/Beneleit%20m%E0%B8%82vi_lLogo%20Azul%20sub%20verde.png",
+    
+    "CFE TEIT": "https://www.cfe.gob.mx/internet-para-todos/PublishingImages/logo-CFE-Internet@2x-vp.png",
+    
+    "Netwey": "https://comparaiso.mx/sites/comparaiso.mx/files/styles/article_hero/public/netwey-xl.png?itok=d1YRHZiT",
+    
+    "Ultracel": "https://ultracel.com.mx/wp-content/uploads/2023/06/logo-ultracel.png",
+    
+    "Altcel": "https://7-eleven.com.mx/wp-content/uploads/2022/04/altcel.jpg",
+    
+    "LikePhone": "https://likephone.mx/public/web/images/logo-2.png",
+    
+    "Nemi": "https://recommerce-static.recharge.com/media/cache/product_card/69/05/5c96bdc59f1e8b7f61d397c1ed69.png",
+    
     "MetroCel": "https://play-lh.googleusercontent.com/Wawt08JAMeprqRotIN_LxTlr3OPsglL2GtdvwJJlAE0UaIKddJG2q60vo0uq8vMbjg",
     
     "Bienestar": "https://internetparaelbienestar.mx/assets/imgs/logo-1696609534.jpg",
